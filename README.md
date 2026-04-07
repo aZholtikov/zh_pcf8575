@@ -52,7 +52,7 @@ In the application, add the component:
 
 ## Examples
 
-One expander on bus. All GPIO's as output (except P00 and P16- input). Interrupt is enable:
+One expander on bus. All GPIO's as output (except P00 and P16 - input). Interrupt is enable:
 
 ```c
 #include "zh_pcf8575.h"
