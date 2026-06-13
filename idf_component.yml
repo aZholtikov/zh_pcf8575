@@ -1,0 +1,10 @@
+description: ESP32 ESP-IDF component for PCF8575 16-bit I/O expander
+url: https://github.com/aZholtikov/zh_pcf8575
+version: "1.0.1"
+license: "Apache-2.0"
+maintainers:
+  - "Alexey Zholtikov <alexey.zholtikov@yandex.ru>"
+dependencies:
+  idf: ">=5.0"
+  zh_vector:
+    git: "https://github.com/aZholtikov/zh_vector.git"
