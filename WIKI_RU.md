@@ -111,7 +111,7 @@ typedef struct
 } zh_pcf8575_init_config_t;
 ```
 
-Используйте ��акрос `ZH_PCF8575_INIT_CONFIG_DEFAULT()` для инициализации значениями по умолчанию:
+Используйте макрос `ZH_PCF8575_INIT_CONFIG_DEFAULT()` для инициализации значениями по умолчанию:
 
 - `i2c_frequency`: 400000 Гц
 - `i2c_address`: 0xFF
@@ -528,4 +528,4 @@ void app_main(void)
 
 ---
 
-*Обновлено для zh_pcf8575 v1.0.1*
+*Сгенерировано для zh_pcf8575 v1.0.2*
